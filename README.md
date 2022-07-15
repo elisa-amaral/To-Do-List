@@ -10,7 +10,7 @@ This project is a To-Do list coded in PHP, JavaScript, MySQL (MariaDB), HTML, CS
 
 + View all tasks (***pending*** and ***done***)
 + View pending tasks
-+ Mask task as done (Check icon)
++ Mark task as ***done*** (Check icon)
 + Edit task description (Pencil icon)
 + Delete task (Trash icon)
 + Add new task
